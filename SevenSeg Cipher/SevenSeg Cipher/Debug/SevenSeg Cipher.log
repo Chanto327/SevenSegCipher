@@ -1,0 +1,7 @@
+﻿  SevenSeg Cipher.cpp
+c:\users\chanto\documents\github\dailyprogrammer\sevenseg cipher\sevenseg cipher\sevenseg cipher\sevenseg cipher.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\chanto\documents\github\dailyprogrammer\sevenseg cipher\sevenseg cipher\sevenseg cipher\sevenseg cipher.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\chanto\documents\github\dailyprogrammer\sevenseg cipher\sevenseg cipher\sevenseg cipher\sevenseg cipher.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\chanto\documents\github\dailyprogrammer\sevenseg cipher\sevenseg cipher\sevenseg cipher\sevenseg cipher.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\chanto\documents\github\dailyprogrammer\sevenseg cipher\sevenseg cipher\sevenseg cipher\sevenseg cipher.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  SevenSeg Cipher.vcxproj -> C:\Users\Chanto\Documents\GitHub\DailyProgrammer\SevenSeg Cipher\SevenSeg Cipher\Debug\SevenSeg Cipher.exe
